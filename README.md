@@ -4,3 +4,4 @@
 - Spiral Matrix IV(2326)
 - Insert Greatest Common Divisors in Linked List(2807)
 - Minimum Bit Flips to Convert Number(2220)
+- XOR Queries of a Subarray(1310)
