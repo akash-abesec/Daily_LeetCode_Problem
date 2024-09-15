@@ -6,3 +6,4 @@
 - Minimum Bit Flips to Convert Number(2220)
 - XOR Queries of a Subarray(1310)
 - Longest Subarray With Maximum Bitwise AND(2419)
+- Find the Longest Substring Containing Vowels in Even Counts (1371)
