@@ -7,3 +7,4 @@
 - XOR Queries of a Subarray(1310)
 - Longest Subarray With Maximum Bitwise AND(2419)
 - Find the Longest Substring Containing Vowels in Even Counts (1371)
+- Minimum Time Difference(539)
