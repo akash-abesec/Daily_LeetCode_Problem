@@ -11,3 +11,4 @@
 - Uncommon Words from Two Sentences(884)
 - Largest Number(179)
 - Different Ways to Add Parentheses(241)
+- Shortest Palindrome(214)
